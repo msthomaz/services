@@ -167,6 +167,14 @@
       "location": "Florianópolis, SC",
       "date": "2013-??-??",
       "price": "R$ ??"
+    },
+    {
+      "name": "SASPI 4",
+      "website": "http://www.saspi.com.br/",
+      "thumbnail": "http://sphotos-f.ak.fbcdn.net/hphotos-ak-frc1/392760_378079435641130_1189988394_n.png",
+      "location": "Pelotas, RS",
+      "date": "2013-09-02",
+      "price": "R$ ??"
     }
   ]
 }
